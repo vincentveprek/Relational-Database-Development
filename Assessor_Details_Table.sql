@@ -1,4 +1,4 @@
-CREATE TABLE Accessor_Details (
+CREATE TABLE Assessor_Details (
   Assessor_ID int,
   Assessor_Name varchar(20),
   Assessor_Address varchar(50),
